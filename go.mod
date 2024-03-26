@@ -1,3 +1,3 @@
 module github.com/akonovalovdev/train
 
-go 1.22
+go 1.20
